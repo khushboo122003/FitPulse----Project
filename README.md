@@ -22,3 +22,14 @@ A machine learning-based health anomaly detection platform developed using Pytho
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## Project Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Analysis Graph
+![Graph](graph.png)
+
+### Prediction Output
+![Prediction](prediction.png)
